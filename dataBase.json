@@ -1,0 +1,1263 @@
+{
+  "recommended": [
+    {
+      "id": 1,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487210305/428_428_75FA66A821D5CADED8F21F1F417E9E8AC3E42FFCFCBAD775mp.png",
+      "desc": "享3期免息",
+      "title": "HUAWEI MateBook X Pro 2021款",
+      "price": 9988
+    },
+    {
+      "id": 2,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487202256/428_428_CAEB4B495D814F32C132C8E65B45EBA5FEACC985B5D26A37mp.png",
+      "desc": "最高省100",
+      "title": "HUAWEI FreeBuds Pro",
+      "price": 999
+    },
+    {
+      "id": 3,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6972453167255/428_428_5A0F299CEB8FD02EC475984195F40859A18690A29D3F4641mp.png",
+      "desc": "限时特惠30元",
+      "title": "HUAWEI WATCH FIT",
+      "price": 769
+    },
+    {
+      "id": 4,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6938179740721/428_428_3DC0FA9485299F06E1E82DA3111C5B465B4647331ED33F66mp.png",
+      "desc": "恒温热敷 穴位按压",
+      "title": "蓓慈智能护眼仪",
+      "price": 399
+    },
+    {
+      "id": 5,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443387588/428_428_1293C2C791F87BE0948D95135021BC202D4B20A735051BDFmp.png",
+      "desc": "最高省300",
+      "title": "华为智慧屏 55英寸",
+      "price": 3999
+    },
+    {
+      "id": 6,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443317301/428_428_1563239675439mp.png",
+      "desc": "最高省110",
+      "title": "HUAWEI FreeLace 无线耳机",
+      "price": 389
+    },
+    {
+      "id": 7,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443319893/428_428_1560822511725mp.png",
+      "desc": "享3期免息",
+      "title": "华为平板 M6 8.4英寸",
+      "price": 2199
+    },
+    {
+      "id": 8,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487201020/428_428_17EC8E6135055BBF8897EC7AD942B492F13DC620EEDD2D8Dmp.png",
+      "desc": "享12期免息",
+      "title": "HUAWEI X GENTLE MONSTER Eyewear II 时尚智能眼镜",
+      "price": 2499
+    },
+    {
+      "id": 9,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443414277/428_428_8D4CA852B05FD61B83CC56E25A8FE1331DA7C16C76481D44mp.png",
+      "desc": "限时优惠30元",
+      "title": "Sound 智能音箱",
+      "price": 969
+    },
+    {
+      "id": 10,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487204663/428_428_F934DED52CF13A08A05D707066DBF2BF3E1214C545FC7C6Amp.png",
+      "desc": "限时优惠100",
+      "title": "HUAWEI FreeBuds Studio 无线头戴耳机",
+      "price": 1899
+    },
+    {
+      "id": 11,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487209248/428_428_522CB419E4D1D10C3A397B2D4BDCAC2115D2719D040C2C60mp.png",
+      "desc": "限时优惠80",
+      "title": "FreeLace Pro 无线耳机 樱语粉",
+      "price": 519
+    },
+    {
+      "id": 12,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6972453164155/428_428_3E4CBDE1F2786A559FB292A742C02DB332C5BFC42F212AA4mp.png",
+      "desc": "限时特惠50元",
+      "title": "华为手环 B6 运动版",
+      "price": 949
+    },
+    {
+      "id": 13,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443274819/428_428_A2F945FFC79B0DCF71FAA259E9ED1B37AAB0EC2D64AFD284mp.png",
+      "desc": "限时优惠20元",
+      "title": "华为路由 WS5200 增强版",
+      "price": 139
+    },
+    {
+      "id": 14,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443254330/428_428_BADA46563239499321B9228CC3577CBDF158AC209C165AF0mp.png",
+      "desc": "限时特惠50元",
+      "title": "华为儿童手表 3 Pro",
+      "price": 748
+    },
+    {
+      "id": 15,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487201433/428_428_71B17AE02362129AE67DE3F104ACC47C43CE9F7BE01FE459mp.png",
+      "desc": "限时特惠20元",
+      "title": "华为智能体脂秤 3",
+      "price": 149
+    },
+    {
+      "id": 16,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443360703/428_428_914EDAC9FF9F83D25CEA18F72AD17BBEA9FBE9EFFA060892mp.png",
+      "desc": "运动健康 热销爆款",
+      "title": "华为手环 4 Pro",
+      "price": 399
+    },
+    {
+      "id": 17,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443362950/428_428_560FE764C43FB2FFC29E80E172525294BEA2BBE26DEBF3ECmp.png",
+      "desc": "限时特惠100元",
+      "title": "HUAWEI VR Glass",
+      "price": 2899
+    },
+    {
+      "id": 18,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6972453168306/428_428_5198730931DE4D621C972640AC6715820BB08C10ACC0B98Cmp.png",
+      "desc": "限时优惠20元",
+      "title": "华为超级快充立式无线充电器 （Max 50W）",
+      "price": 309
+    },
+    {
+      "id": 19,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487202003/428_428_38662CFDCF11ACDC32FAD6E64EA489094AD9BD75AFF12DB7mp.png",
+      "desc": "限时优惠20元",
+      "title": "华为12000 66W超级快充移动电源",
+      "price": 379
+    },
+    {
+      "id": 20,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6901443404926/428_428_EC057BA9FC304F37A60287C1D9E761FACF0EF559795D340Fmp.png",
+      "desc": "享3期免息",
+      "title": "HUAWEI MateBook X 2020款",
+      "price": 8988
+    },
+    {
+      "id": 21,
+      "imgs_src": "https://res0.vmallres.com/pimages//product/6941487208081/428_428_09DFA911A97EFB4032A8BDD9C68C192FCA41FE0F90663A57mp.png",
+      "desc": "享3期免息",
+      "title": "HUAWEI MateBook D 14 2021款",
+      "price": 4988
+    }
+  ],
+  "sportWatch": [
+    {
+      "id": 1,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6901443330133/428_428_8503E557FBFE9758B234DEB630AD0B78C413F8760A89EA8Amp.png",
+      "desc": "运动健康 热销爆款",
+      "title": "手环4",
+      "price": 199
+    },
+    {
+      "id": 2,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6972453165985/428_428_93BCD651C90D2B5EFD779DB353F1A2E36DFAE529FA49026Emp.png",
+      "desc": "限时特惠100元",
+      "title": "【新品】儿童手表 4X",
+      "price": 1298
+    },
+    {
+      "id": 3,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6901443383214/428_428_22F2E26803F9236D8943B1FF5F06B1B553D0CCFD83A1A49Dmp.png",
+      "desc": "限时特惠100元",
+      "title": "儿童手表 3 Pro 超能版",
+      "price": 888
+    },
+    {
+      "id": 4,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6901443278381/428_428_B82D67C119283942BCC92625B03EAAEB4BC6A7C7065DEBCBmp.png",
+      "desc": "限时特惠10元",
+      "title": "儿童手表 3",
+      "price": 288
+    },
+    {
+      "id": 5,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6901443309177/428_428_8CFE34C8B9A759E75D855553576F28162679C6C85C4BD2E1mp.png",
+      "desc": "限时特惠10元",
+      "title": "儿童手表 3s",
+      "price": 488
+    },
+    {
+      "id": 6,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6901443347049/428_428_8C4FDCA2E0EDFA3E3263CE7A28441652C073E5682B8179A2mp.png",
+      "desc": "限时特惠100元",
+      "title": "华为智能体脂秤 2 Pro",
+      "price": 399
+    },
+    {
+      "id": 7,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6901443375271/428_428_4C7F8433FD4422B64C447BCB4002AD184DDFE3771DD41909mp.png",
+      "desc": "享3期免息",
+      "title": "HUAWEI WATCH GT 2e",
+      "price": 1288
+    },
+    {
+      "id": 8,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6901443408115/428_428_C198AB8A054D7A38449FDD23A2A41162C377BE0830F42667mp.png",
+      "desc": "9项跑姿指导",
+      "title": "华为手环 4e",
+      "price": 119
+    },
+    {
+      "id": 9,
+      "imgs_src": "https://res1.vmallres.com/pimages//product/6972453166623/428_428_3BEC2C42E7A4A37E60FDC56465F3AF18E3EC0FC7F4D09B15mp.png",
+      "desc": "新品限时开售",
+      "title": "WATCH GT 2 保时捷设计款",
+      "price": 4688
+    }
+  ],
+  "siderBar":[
+    "手机", "智能穿戴与运动健康", "耳机音箱眼镜", "智慧屏", "电脑", "平板", "智能路由", "配件", "生态产品", "美食酒饮", "增值服务&企业商用"
+  ],
+  "hotSale":[
+    { "id": "1", "img-src": "https://res0.vmallres.com/pimages//product/6901443398027/428_428_C5B3EEB31BA081CF605FE04A1118DEF332F4C3003CC60ECEmp.png", "title": "HUAWEI P40 Pro+ 5G", "desc": "享12期免息", "price": "¥7,988" },
+    { "id": "2", "img-src": "https://res0.vmallres.com/pimages//product/6938179740721/428_428_3DC0FA9485299F06E1E82DA3111C5B465B4647331ED33F66mp.png", "title": "蓓慈智能护眼仪", "desc": "恒温热敷 穴位按压", "price": "¥399" },
+    { "id": "3", "img-src": "https://res0.vmallres.com/pimages//product/6901443381517/428_428_0410C56E4DFF825A527CBD3369F4D394F1699311CF51F864mp.png", "title": "HUAWEI P40 Pro 5G", "desc": "限量赠保护壳", "price": "¥5,988" },
+    { "id": "4", "img-src": "https://res0.vmallres.com/pimages//product/6971794020427/428_428_837471FC78DE3D32459680F5FACC647CF020E5A503EB1167mp.png", "title": "小莫智能划船机Pro MAX", "desc": "质感升级", "price": "¥3,299" },
+    { "id": "5", "img-src": "https://res0.vmallres.com/pimages//product/6901443404926/428_428_EC057BA9FC304F37A60287C1D9E761FACF0EF559795D340Fmp.png", "title": "HUAWEI MateBook X", "desc": "享3期免息", "price": "¥8,988" },
+    { "id": "6", "img-src": "https://res0.vmallres.com/pimages//product/6941487207626/428_428_64A6BB5D9B19C61B2C8724E1D12E02E0DF740091C034401Bmp.png", "title": "HUAWEI Mate 40 Pro+ 5G", "desc": "享多重权益", "price": "¥8,999" },
+    { "id": "7", "img-src": "https://res0.vmallres.com/pimages//product/6901443415670/428_428_02CAB92CA3E7CA5A99995191A776C00D87C32CC39A4B1605mp.png", "title": "HUAWEI Mate 30E Pro 5G", "desc": "以旧换新享补贴", "price": "¥5,299" },
+    { "id": "8", "img-src": "https://res0.vmallres.com/pimages//product/6941487211210/428_428_FAD19670648EDFCF959E7322E54A1A758BE0CD66A83455C6mp.png", "title": "HUAWEI nova 8 Pro", "desc": "每天10:08 限时开售", "price": "¥3,999" }
+  ],
+  "banner":[
+    "https://res.vmallres.com/pimages//pages/picImages/86502569021616520568.jpg",
+    "https://res.vmallres.com/pimages//pages/picImages/47458569021616585474.jpg",
+    "https://res.vmallres.com/pimages//pages/picImages/67894454511615449876.jpg",
+    "https://res.vmallres.com/pimages//pages/picImages/67894454511615449876.jpg",
+    "https://res.vmallres.com/pimages//pages/picImages/05977669021616677950.png",
+    "https://res.vmallres.com/pimages//pages/picImages/90171263911616217109.jpg"
+  ],
+  "mobile":[
+    {
+      "id": 1,
+      "img-src": "https://res0.vmallres.com/pimages//product/6941487212811/428_428_4C8EE6806EDE629C0082E7D08CA7FA9FDF4155E790051011mp.png",
+      "title": "华为畅享20 SE",
+      "desc": "新品上市",
+      "price": 1499
+    },
+    {
+      "id": 2,
+      "img-src": "https://res0.vmallres.com/pimages//product/6901443353347/428_428_484D42DB83550E7CF59813E6BE3E2A9A4CF07CF0E75E32A3mp.png",
+      "title": "HUAWEI Mate 30 RS 保时捷设计",
+      "desc": "致敬时代",
+      "price": 12999
+    },
+    {
+      "id": 3,
+      "img-src": "https://res0.vmallres.com/pimages//product/6901443393008/428_428_58EAB4EFAF0C0396CD1E1B8CDD13FA7E0B5EFADD46080300mp.png",
+      "title": "HUAWEI nova 7 Pro",
+      "desc": "限时优惠100元",
+      "price": 3699
+    },
+    {
+      "id": 4,
+      "img-src": "https://res0.vmallres.com/pimages//product/6972453165077/428_428_C089F3BE3BD266BAC2B777E1190F59241E0CE65223CA694Bmp.png",
+      "title": "华为畅享20 Pro",
+      "desc": "以旧换新享补贴",
+      "price": 1999
+    }
+  ],
+  "watch":[
+    {
+      "id": 1,
+      "img-src": "https://res1.vmallres.com/pimages//product/6941487205219/428_428_28B5F5B15775FEB6D7F13F4CF1A3A8FF59B648B79E6D272Fmp.png",
+      "title": "WATCH GT 2 Pro",
+      "desc": "新品限时开售",
+      "price": 2688
+    },
+    {
+      "id": 2,
+      "img-src": "https://res1.vmallres.com/pimages//product/6901443320202/428_428_A8033BCC8CCFFF9199371E71953A1B8B9730D5ACACA293D0mp.png",
+      "title": "HUAWEI WATCH GT 2",
+      "desc": "限时特惠100元",
+      "price": 1388
+    },
+    {
+      "id": 3,
+      "img-src": "https://res1.vmallres.com/pimages//product/6972453167255/428_428_5A0F299CEB8FD02EC475984195F40859A18690A29D3F4641mp.png",
+      "title": "HUAWEI WATCH FIT",
+      "desc": "限时特惠30元",
+      "price": 769
+    },
+    {
+      "id": 4,
+      "img-src": "https://res1.vmallres.com/pimages//product/6972453164155/428_428_3E4CBDE1F2786A559FB292A742C02DB332C5BFC42F212AA4mp.png",
+      "title": "华为手环 B6",
+      "desc": "限时特惠50元",
+      "price": 949
+    },
+    {
+      "id": 5,
+      "img-src": "https://res1.vmallres.com/pimages//product/6901443254330/428_428_BADA46563239499321B9228CC3577CBDF158AC209C165AF0mp.png",
+      "title": "儿童手表 3 Pro",
+      "desc": "限时特惠50元",
+      "price": 748
+    },
+    {
+      "id": 6,
+      "img-src": "https://res1.vmallres.com/pimages//product/6941487201433/428_428_71B17AE02362129AE67DE3F104ACC47C43CE9F7BE01FE459mp.png",
+      "title": "华为智能体脂秤 3",
+      "desc": "限时特惠20元",
+      "price": 149
+    },
+    {
+      "id": 7,
+      "img-src": "https://res1.vmallres.com/pimages//product/6901443362950/428_428_560FE764C43FB2FFC29E80E172525294BEA2BBE26DEBF3ECmp.png",
+      "title": "HUAWEI VR Glass",
+      "desc": "限时特惠100元",
+      "price": 2899
+    },
+    {
+      "id": 8,
+      "img-src": "https://res1.vmallres.com/pimages//product/6901443360277/428_428_EC4E2F03BF69EFDF92BDB185547A4C733BA8AE3781105B39mp.png",
+      "title": "手环 4 Pro",
+      "desc": "运动健康 热销爆款",
+      "price": 399
+    }
+  ],
+  "headset":[
+    {
+      "id": 1,
+      "img-src": "https://res2.vmallres.com/pimages//product/6901443356119/428_428_5D958398A838D6E435F42C4553C07FAC18DD542C47C28959mp.png",
+      "title": "HUAWEI Sound X",
+      "desc": "限时优惠300元",
+      "price": 1699
+    },
+    {
+      "id": 2,
+      "img-src": "https://res2.vmallres.com/pimages//product/6941487201037/428_428_14F688BFFE24C1D36327171F0B49F14005C320E1388EE298mp.png",
+      "title": "HUAWEI 智能眼镜 2代",
+      "desc": "享12期免息",
+      "price": 2499
+    },
+    {
+      "id": 3,
+      "img-src": "https://res2.vmallres.com/pimages//product/6901443399048/428_428_870B6FE27F5BF4867AEAF26DA9389FDBDECC5DB85D23154Fmp.png",
+      "title": "HUAWEI FreeBuds 3 无线耳机",
+      "desc": "最高省200",
+      "price": 699
+    },
+    {
+      "id": 4,
+      "img-src": "https://res2.vmallres.com/pimages//product/6901443414277/428_428_8D4CA852B05FD61B83CC56E25A8FE1331DA7C16C76481D44mp.png",
+      "title": "HUAWEI Sound 智能音箱",
+      "desc": "限时优惠30元",
+      "price": 969
+    },
+    {
+      "id": 5,
+      "img-src": "https://res2.vmallres.com/pimages//product/6941487204656/428_428_FB7BAC2D86AA8CA5DF84BE54FBE5FD73150052C815ADC835mp.png",
+      "title": "FreeBuds Studio 无线头戴耳机",
+      "desc": "限时优惠100",
+      "price": 1899
+    },
+    {
+      "id": 6,
+      "img-src": "https://res2.vmallres.com/pimages//product/6901443412396/428_428_9975232FF659F2592E7C049E0F0B715D2EB699461F0AAE0Bmp.png",
+      "title": "华为 AI 音箱 2",
+      "desc": "限时优惠30元",
+      "price": 269
+    },
+    {
+      "id": 7,
+      "img-src": "https://res2.vmallres.com/pimages//product/6972453168856/428_428_EA57A4409F40F4C90B2DA3C4EEB9039F4815F65ADA0EDEFEmp.png",
+      "title": "HUAWEI FreeLace Pro 无线耳机",
+      "desc": "限时优惠80",
+      "price": 519
+    },
+    {
+      "id": 8,
+      "img-src": "https://res2.vmallres.com/pimages//product/6901443295968/428_428_1554964961999mp.png",
+      "title": "HUAWEI FreeLace 无线耳机",
+      "desc": "限时优惠110",
+      "price": 389
+    }
+  ],
+  "TV":[
+    {
+      "id": 1,
+      "img-src": "https://res3.vmallres.com/pimages//product/6901443385669/428_428_FE4B22020F44311F8B2C1855BDBC5E061FD4A35898888B92mp.png",
+      "title": "华为智慧屏V",
+      "desc": "最高省800",
+      "price": 5199
+    },
+    {
+      "id": 2,
+      "img-src": "https://res3.vmallres.com/pimages//product/6901443390496/428_428_36F72EB747591D900CAC22B69D6537E1C04D5C485EB66BE0mp.png",
+      "title": "华为智慧屏X65",
+      "desc": "特惠5000",
+      "price": 19999
+    },
+    {
+      "id": 3,
+      "img-src": "https://res3.vmallres.com/pimages//product/6941487210152/428_428_C002DB8738E4BEC28D56A34FF70B40388B416F9E7D8ED25Cmp.png",
+      "title": "华为智慧屏S55",
+      "desc": "限时最高优惠100元",
+      "price": 3199
+    },
+    {
+      "id": 4,
+      "img-src": "https://res3.vmallres.com/pimages//product/6941487210169/428_428_D6D5D9F5EB593FBAA77207288884A42B28AC2C3569C08C38mp.png",
+      "title": "华为智慧屏S65",
+      "desc": "限时最高优惠100元",
+      "price": 4899
+    },
+    {
+      "id": 5,
+      "img-src": "https://res3.vmallres.com/pimages//product/6941487211173/428_428_87599FE3B13A72582CC2C554CE2B9931CD8569FD275C84F1mp.png",
+      "title": "华为智慧屏S75",
+      "desc": "火爆热销中",
+      "price": 6999
+    },
+    {
+      "id": 6,
+      "img-src": "https://res3.vmallres.com/pimages//product/6901443387588/428_428_1293C2C791F87BE0948D95135021BC202D4B20A735051BDFmp.png",
+      "title": "华为智慧屏V55i",
+      "desc": "最高省300",
+      "price": 3999
+    },
+    {
+      "id": 7,
+      "img-src": "https://res3.vmallres.com/pimages//product/6901443385669/428_428_FE4B22020F44311F8B2C1855BDBC5E061FD4A35898888B92mp.png",
+      "title": "华为智慧屏 V65i",
+      "desc": "最高省800",
+      "price": 5199
+    },
+    {
+      "id": 8,
+      "img-src": "https://res3.vmallres.com/pimages//product/6901443361557/428_428_9CA7B99629C486B82A64D8EBCCB6BF5BDB211AA893F42F55mp.png",
+      "title": "华为智慧屏 V65",
+      "desc": "最高省800",
+      "price": 7299
+    }
+  ],
+  "laptop":[
+    {
+      "id": 1,
+      "img-src": "https://res4.vmallres.com/pimages//product/6901443404926/428_428_EC057BA9FC304F37A60287C1D9E761FACF0EF559795D340Fmp.png",
+      "title": "HUAWEI MateBook X",
+      "desc": "享3期免息",
+      "price": 8988
+    },
+    {
+      "id": 2,
+      "img-src": "https://res4.vmallres.com/pimages//product/6941487210565/428_428_0586DDD43A796BB8F9DCE0CF38A3C248212C18CA891A2AB9mp.png",
+      "title": "HUAWEI MateBook 14 2021款",
+      "desc": "享3期免息",
+      "price": 5888
+    },
+    {
+      "id": 3,
+      "img-src": "https://res4.vmallres.com/pimages//product/6941487210374/428_428_EE7EAEF4AB521CB9E878C7BA4AC119AC50FA358DE6D627EFmp.png",
+      "title": "HUAWEI MateBook 13 2021款",
+      "desc": "享3期免息",
+      "price": 5488
+    },
+    {
+      "id": 4,
+      "img-src": "https://res4.vmallres.com/pimages//product/6941487208081/428_428_09DFA911A97EFB4032A8BDD9C68C192FCA41FE0F90663A57mp.png",
+      "title": "HUAWEI MateBook D 14 2021款",
+      "desc": "享3期免息",
+      "price": 4988
+    },
+    {
+      "id": 5,
+      "img-src": "https://res4.vmallres.com/pimages//product/6941487208159/428_428_0CA3A957E88044DD39123396C850743AED2D2EAA2DBFBD61mp.png",
+      "title": "HUAWEI MateBook D 15 2021款",
+      "desc": "享3期免息",
+      "price": 4988
+    },
+    {
+      "id": 6,
+      "img-src": "https://res4.vmallres.com/pimages//product/6901443407224/428_428_4623B15D5E474FE95C7867EE67C1D25A13BCA65E0412FB5Fmp.png",
+      "title": "HUAWEI MateBook D 14 锐龙版",
+      "desc": "享3期免息",
+      "price": 4088
+    },
+    {
+      "id": 7,
+      "img-src": "https://res4.vmallres.com/pimages//product/6901443407217/428_428_4A986AE3579911F078F43B674B4EF611BE841294A15C2C50mp.png",
+      "title": "HUAWEI MateBook D 15 锐龙版",
+      "desc": "享3期免息",
+      "price": 4188
+    },
+    {
+      "id": 8,
+      "img-src": "https://res4.vmallres.com/pimages//product/6972453168146/428_428_BA129D171356B5846015374001AE6DF787FF43972E591A6Cmp.png",
+      "title": "HUAWEI MateBook 14 锐龙版",
+      "desc": "享3期免息",
+      "price": 5688
+    },
+    {
+      "id": 9,
+      "img-src": "https://res4.vmallres.com/pimages//product/6972453168085/428_428_A88D63D52261128AF24A1D8C872E1ACD1E93E53357655EA6mp.png",
+      "title": "HUAWEI MateBook 13 锐龙版",
+      "desc": "享3期免息",
+      "price": 5388
+    }
+  ],
+  "pad":[
+    {
+      "id": 1,
+      "img-src": "https://res5.vmallres.com/pimages//product/6901443319916/428_428_1560822298745mp.png",
+      "title": "华为平板 M6 8.4",
+      "desc": "享3期免息",
+      "price": 2499
+    },
+    {
+      "id": 2,
+      "img-src": "https://res5.vmallres.com/pimages//product/6901443294756/428_428_A428062B97BB6F5DD911D740DACD939C5E06CC90FC6DC3D0mp.png",
+      "title": "华为平板 M5",
+      "desc": "享3期免息",
+      "price": 1399
+    },
+    {
+      "id": 3,
+      "img-src": "https://res5.vmallres.com/pimages//product/6972453166357/428_428_E45D54999ACF63F5CF8C4A565C7F067787A596BAA9A1A7CAmp.png",
+      "title": "HUAWEI MatePad 10.8",
+      "desc": "享3期免息",
+      "price": 2399
+    },
+    {
+      "id": 4,
+      "img-src": "https://res5.vmallres.com/pimages//product/6901443362165/428_428_43FF8D6E14324A16BAA680D242AB29BF72BACAE425DD5943mp.png",
+      "title": "HUAWEI MatePad Pro",
+      "desc": "享3期免息",
+      "price": 3799
+    },
+    {
+      "id": 5,
+      "img-src": "https://res5.vmallres.com/pimages//product/6901443404827/428_428_943DF2FA4B0A8337A9C29AD466CB6BB1A44814B09A302482mp.png",
+      "title": "华为畅享平板 2",
+      "desc": "享3期免息",
+      "price": 1799
+    },
+    {
+      "id": 6,
+      "img-src": "https://res5.vmallres.com/pimages//product/6941487207350/428_428_F68A11AAF92595B0DFCB996E00CE34419E3512196B45F0ECmp.png",
+      "title": "MatePad 10.4",
+      "desc": "享3期免息",
+      "price": 2099
+    },
+    {
+      "id": 7,
+      "img-src": "https://res5.vmallres.com/pimages//product/6901443403011/428_428_A527FAFACA39029CB05262367AFDBAE6729FFFE0515F92D4mp.png",
+      "title": "MatePad Pro 5G",
+      "desc": "享3期免息",
+      "price": 5299
+    },
+    {
+      "id": 8,
+      "img-src": "https://res5.vmallres.com/pimages//product/6901443330546/428_428_B9DBBFE22E2A3DECB9319D7A96FC8FCB2872C694EBBC473Cmp.png",
+      "title": "华为平板 M6 高能版",
+      "desc": "享3期免息",
+      "price": 2799
+    },
+    {
+      "id": 9,
+      "img-src": "https://res5.vmallres.com/pimages//product/6941487204960/428_428_1E6951763EADFB64B14E5B9C8BA1825D73ABFB8751BC7FB8mp.png",
+      "title": "MatePad 5G 10.4",
+      "desc": "享3期免息",
+      "price": 3199
+    }
+  ],
+  "router":[
+    {
+      "id": 1,
+      "img-src": "https://res6.vmallres.com/pimages//product/6972453162335/428_428_FBCC35D17566177FEC42ED54A91E101DC7C02925B31CC9E5mp.png",
+      "title": "华为路由AX3",
+      "desc": "限时最高省30元",
+      "price": 229
+    },
+    {
+      "id": 2,
+      "img-src": "https://res6.vmallres.com/pimages//product/6972453163554/428_428_15928846F729B31F231C77A61B3032066414DAD54CFF8594mp.png",
+      "title": "华为路由Q2S",
+      "desc": "限时优惠60元",
+      "price": 539
+    },
+    {
+      "id": 3,
+      "img-src": "https://res6.vmallres.com/pimages//product/6901443303915/428_428_D29ACF7E820F6A5ADAEEFE6DB5E1560AF4754BF9FC8CC60Amp.png",
+      "title": "华为路由WS5200四核版",
+      "desc": "限时优惠20元",
+      "price": 169
+    },
+    {
+      "id": 4,
+      "img-src": "https://res6.vmallres.com/pimages//product/6901443400836/428_428_53460742E0F0CDAB0F5C725E78AE0E86543F99E7F6969BF4mp.png",
+      "title": "华为随行WiFi 3（白色）",
+      "desc": "限时优惠30元",
+      "price": 269
+    },
+    {
+      "id": 5,
+      "img-src": "https://res6.vmallres.com/pimages//product/6972453160010/428_428_D5ACA4991480C8666D7BE76EF34F5D1A2E44F1918ED1B407mp.png",
+      "title": "华为路由A2（白色）多连不卡 一碰连网 上网保护 四核处理器 三频高速WIFI 手游加速",
+      "desc": "限时优惠60元",
+      "price": 339
+    },
+    {
+      "id": 6,
+      "img-src": "https://res6.vmallres.com/pimages//product/6901443401925/428_428_F71837ACC8C14D8940908663529657E54D58F6A5B3654A89mp.png",
+      "title": "华为随行WiFi 2 mini",
+      "desc": "限时优惠40元",
+      "price": 259
+    },
+    {
+      "id": 7,
+      "img-src": "https://res6.vmallres.com/pimages//product/6901443285532/428_428_DD81204D80E7696141E529C0991784F9367C3B0E09F9C32Emp.png",
+      "title": "华为子母路由 Q2 Pro",
+      "desc": "限时优惠200元",
+      "price": 1199
+    },
+    {
+      "id": 8,
+      "img-src": "https://res6.vmallres.com/pimages//product/6901443320035/428_428_8B67F8BE8D0547D4B48935360E992C131D57225C280A1335mp.png",
+      "title": "华为移动路由4G路由2 Pro",
+      "desc": "限时优惠60元",
+      "price": 439
+    }
+  ],
+  "generalAccessories":[
+    {
+      "id": 1,
+      "img-src": "https://res7.vmallres.com/pimages//product/6941487206995/428_428_838A09CCBA0D048520FA5FDD600FC3D5CD8656C20ACFD0B2mp.png",
+      "title": "华为超级快充车载充电器（Max 66W",
+      "desc": "限时优惠15元",
+      "price": 214
+    },
+    {
+      "id": 2,
+      "img-src": "https://res7.vmallres.com/pimages//product/6901443176649/428_428_1553776563034mp.png",
+      "title": "HUAWEI 5A 数据线",
+      "desc": "",
+      "price": 44
+    },
+    {
+      "id": 3,
+      "img-src": "https://res7.vmallres.com/pimages//product/6901443369614/428_428_100700F1A17202378058B2EA2459E89F4EE6F17C06A133CCmp.png",
+      "title": "华为超级快充立式无线充电器（Max 40W）",
+      "desc": "限时优惠40元",
+      "price": 259
+    },
+    {
+      "id": 4,
+      "img-src": "https://res7.vmallres.com/pimages//product/6901443325214/428_428_B4B231BE557D9DC5AA9627749F0846ECD3DCE76D2A7F881Fmp.png",
+      "title": "华为超级快充无线充电器（MAX 27W）",
+      "desc": "拼团省50元",
+      "price": 179
+    },
+    {
+      "id": 5,
+      "img-src": "https://res7.vmallres.com/pimages//product/6972453163592/428_428_8189CC910FAAA5C99E195AC2BA367D57944E29E631D6449Emp.png",
+      "title": "华为超级快充GaN双口充电器（Max 65W）",
+      "desc": "智能双口输出",
+      "price": 249
+    },
+    {
+      "id": 6,
+      "img-src": "https://res7.vmallres.com/pimages//product/6901443292721/428_428_C62974A65AFDC976A5FF3FFDE23ACAABAF97BE6736200B5Fmp.png",
+      "title": "华为40W超级快充移动电源",
+      "desc": "限时优惠40元",
+      "price": 329
+    },
+    {
+      "id": 7,
+      "img-src": "https://res7.vmallres.com/pimages//product/6941487202027/428_428_E37AE311066B008011500B8DADABED4E367C655BF5905681mp.png",
+      "title": "华为12000 66W双向超级快充移动电源",
+      "desc": "限时优惠20元",
+      "price": 379
+    },
+    {
+      "id": 8,
+      "img-src": "https://res7.vmallres.com/pimages//product/6972453168368/428_428_A157FA9F2D5D02DCBB0F5F3A13B24D4659328F18B87C7CBCmp.png",
+      "title": "华为超级快充无线车充(Max 50W）",
+      "desc": "限时优惠20元",
+      "price": 329
+    }
+  ],
+  "life":[
+    {
+      "id": 1,
+      "img-src": "https://res7.vmallres.com/pimages//product/6972193932311/428_428_A5A4600134D611BEED3978A5FF39E3B97D911C089D35BC8Bmp.png",
+      "title": "红帕智能降温杯T1Plus",
+      "desc": "30秒降温 喝水提醒",
+      "price": 229
+    },
+    {
+      "id": 2,
+      "img-src": "https://res7.vmallres.com/pimages//product/6944527436475/428_428_5D7383582A354A2A8B202A0FB45E0F9DC866A9E01B497BD4mp.png",
+      "title": "SKG颈椎按摩仪 K6",
+      "desc": "深度缓解颈部疲劳",
+      "price": 469
+    },
+    {
+      "id": 3,
+      "img-src": "https://res7.vmallres.com/pimages//product/6938179740721/428_428_3DC0FA9485299F06E1E82DA3111C5B465B4647331ED33F66mp.png",
+      "title": "蓓慈智能护眼仪",
+      "desc": "恒温热敷 穴位按压",
+      "price": 399
+    },
+    {
+      "id": 4,
+      "img-src": "https://res7.vmallres.com/pimages//product/6971061404110/428_428_B36F9C6F84C1D10E0D9394D38027D8CD7068136ADCB4D815mp.png",
+      "title": "触控屏智能锁 Q7 青稞",
+      "desc": "安全芯片 国密内核",
+      "price": 1849
+    },
+    {
+      "id": 5,
+      "img-src": "https://res7.vmallres.com/pimages//product/6925662234010/428_428_61EA04A3BE69816F6FA41BA889D8C73682C3F70245AA7237mp.png",
+      "title": "OGAWA奥佳华家用按摩椅",
+      "desc": "丰富指压技法",
+      "price": 7999
+    },
+    {
+      "id": 6,
+      "img-src": "https://res7.vmallres.com/pimages//product/6938179711059/428_428_8D0A00FD9973D74C6DD6CDD169BF6BDD647C7CFF564B8387mp.png",
+      "title": "蓓慈智能足浴器",
+      "desc": "水电分离技术",
+      "price": 299
+    },
+    {
+      "id": 7,
+      "img-src": "https://res7.vmallres.com/pimages//product/6970411751867/428_428_E3714EAA3DFF66A37E2B99E1ADF9041ECA1CA930376F79ACmp.png",
+      "title": "usmile智能声波电动牙刷",
+      "desc": "3种洁牙模式",
+      "price": 179
+    },
+    {
+      "id": 8,
+      "img-src": "https://res7.vmallres.com/pimages//product/6932336299374/428_428_BD588040741130DABE6DB7AE3F05690372D7DC3D39700201mp.png",
+      "title": "三思智能墙面插座",
+      "desc": "定时控制 感应夜灯",
+      "price": 119
+    }
+  ],
+  "wine":[
+    {
+      "id": 1,
+      "img-src": "https://res7.vmallres.com/pimages//product/7798078004213/428_428_D574ABBEA5D58BBF7E4E06D853D85B1A0A85E6F542F1A58Emp.png",
+      "title": "唐克里斯托瓦将军",
+      "desc": "优质产区门多萨",
+      "price": 98
+    },
+    {
+      "id": 2,
+      "img-src": "https://res7.vmallres.com/pimages//product/7804315009405/428_428_EBF1308ED298AC75AD33016F9C6B9BA05CC710CA127573C5mp.png",
+      "title": "火山特科卡美娜",
+      "desc": "火山风土纯净风味",
+      "price": 226
+    },
+    {
+      "id": 3,
+      "img-src": "https://res7.vmallres.com/pimages//product/3416140121678/428_428_C6D8DDBBB10BEE30581DF9558BEAA9AC2C81E3237F512CB2mp.png",
+      "title": "雅酿丝女神之冠起泡",
+      "desc": "生物动力法酿造",
+      "price": 198
+    },
+    {
+      "id": 4,
+      "img-src": "https://res7.vmallres.com/pimages//product/6971404610192/428_428_CC97E32992E63E162B052C5A26E2F9F6C337B8C07A501385mp.png",
+      "title": "有机五常大米",
+      "desc": "当季稻谷，鲜米直达餐桌",
+      "price": 199
+    },
+    {
+      "id": 5,
+      "img-src": "https://res7.vmallres.com/pimages//product/9416050530816/428_428_7BC98CD4A10EDBC667322B8522565A32E60AA41B6011CF66mp.png",
+      "title": "麦卢卡蜂蜜5+",
+      "desc": "新西兰国宝级蜂蜜",
+      "price": 128
+    },
+    {
+      "id": 6,
+      "img-src": "https://res7.vmallres.com/pimages//product/9416050577811/428_428_37820CA6A3E1C9D03B17D6976E44F7F5D21B5A0A25868656mp.png",
+      "title": "麦卢卡蜂蜜15+",
+      "desc": "富含独麦素UMF15+",
+      "price": 268
+    },
+    {
+      "id": 7,
+      "img-src": "https://res7.vmallres.com/pimages//product/9312631749670/428_428_7E28CD0F732751FE8B26359F408F95EFDE215734BB0DC9A4mp.png",
+      "title": "迪尔玛庄园红茶*2",
+      "desc": "海拔4600英尺的风味",
+      "price": 116
+    },
+    {
+      "id": 8,
+      "img-src": "https://res7.vmallres.com/pimages//product/7798078000512/428_428_89C71F2505AFAD1C45F413BB81F68BEE63B3D2437A5A0233mp.png",
+      "title": "唐克里斯托瓦精选梅洛",
+      "desc": "法国橡木桶陈年",
+      "price": 168
+    }
+  ],
+  "selectedAccessories":[
+    {
+      "id": 1,
+      "img-src": "https://res7.vmallres.com/pimages//product/6972480870005/428_428_2FC1A6065CCE039142D6A71DF621401716C41ED6559108D1mp.png",
+      "title": "佑美(Umay)家用静音智能跑步机",
+      "desc": "NFC轻触秒联",
+      "price": 1899
+    },
+    {
+      "id": 2,
+      "img-src": "https://res7.vmallres.com/pimages//product/GB3102150087901/428_428_D0DB1CEEE9622E9B4585E69D52F6BDE16ED986D17C8CFF0Bmp.png",
+      "title": "青稞智能指纹锁 E5H",
+      "desc": "熄屏开锁",
+      "price": 1449
+    },
+    {
+      "id": 3,
+      "img-src": "https://res7.vmallres.com/pimages//product/GB3102160016001/428_428_1540367360482mp.png",
+      "title": "海备思高清无线投屏器",
+      "desc": "4K清晰换面",
+      "price": 229
+    },
+    {
+      "id": 4,
+      "img-src": "https://res7.vmallres.com/pimages//product/GB3102160013002/428_428_CF2B22D1B93C1F7109272D04A4D191DD97CB5EBDCF01786Dmp.png",
+      "title": "55度moscup智能降温杯",
+      "desc": "一分钟快速降温",
+      "price": 189
+    },
+    {
+      "id": 5,
+      "img-src": "https://res7.vmallres.com/pimages//product/4897088951487/428_428_926D301EA3B7C9414D96F0638C342F0B217412941998656Emp.png",
+      "title": "Brasport牌 真皮耳机套",
+      "desc": "意大利进口纳帕牛皮",
+      "price": 169
+    },
+    {
+      "id": 6,
+      "img-src": "https://res7.vmallres.com/pimages//product/GB3102150050501/428_428_94535DD3E73EC5985D0444CB1477565AAA16217194CD719Amp.png",
+      "title": "绿联高清投屏转换器",
+      "desc": "大屏办公",
+      "price": 129
+    },
+    {
+      "id": 7,
+      "img-src": "https://res7.vmallres.com/pimages//product/4894222059962/428_428_4004DF15696A1D62762B0F5FF7A852030511E77147D448D5mp.png",
+      "title": "FreeBuds 3耳机保护皮套挂绳版",
+      "desc": "柔韧防震",
+      "price": 79
+    },
+    {
+      "id": 8,
+      "img-src": "https://res7.vmallres.com/pimages//product/7613119114082/428_428_1562724095317mp.png",
+      "title": "STRAPBOX 复合表带",
+      "desc": "兼顾商务与运动",
+      "price": 199
+    }
+  ],
+  "mobileList":[
+    {
+      "id": 1,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443415670/428_428_02CAB92CA3E7CA5A99995191A776C00D87C32CC39A4B1605mp.png",
+      "title": "HUAWEI Mate 30E Pro",
+      "price": 5299,
+      "grade": 5224,
+      "rating": 99
+    },
+    {
+      "id": 2,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443381326/428_428_98BFD375477593F4E5882AB5A645BCC72F7F6F1109700D32mp.png",
+      "title": "HUAWEI P40",
+      "price": 4188,
+      "grade": 27660,
+      "rating": 98
+    },
+    {
+      "id": 3,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443331376/428_428_FAF5BBAB67C16D7426B5B1A2A38F9001DED6D011A0EE9977mp.png",
+      "title": "HUAWEI Mate 30 Pro",
+      "price": 5399,
+      "grade": 42890,
+      "rating": 99
+    },
+    {
+      "id": 4,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443393015/428_428_AE7282C89472CC29A19250DF5B6E4F08553B5DCC8506214Fmp.png",
+      "title": "HUAWEI nova 7 Pro 5G",
+      "price": 3699,
+      "grade": 10185,
+      "rating": 98
+    },
+    {
+      "id": 5,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207121/428_428_CFF5464CA70F14D0158F19834D9F7CEDF5FF98DD97F3B804mp.png",
+      "title": "HUAWEI Mate 40 Pro",
+      "price": 6499,
+      "grade": 84750,
+      "rating": 99
+    },
+    {
+      "id": 6,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487210978/428_428_9B6917F54FD19C85873D683A0118C9EE61CF70B260CE761Bmp.png",
+      "title": "HUAWEI Mate 40",
+      "price": 4999,
+      "grade": 15255,
+      "rating": 99
+    },
+    {
+      "id": 7,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487210626/428_428_ACE1CD80845649CE0FB2B5131E3110DCB4BC7CDED5B102BDmp.png",
+      "title": "HUAWEI nova 8",
+      "price": 3299,
+      "grade": 7333,
+      "rating": 99
+    },
+    {
+      "id": 8,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443353347/428_428_484D42DB83550E7CF59813E6BE3E2A9A4CF07CF0E75E32A3mp.png",
+      "title": "HUAWEI Mate 30 RS 保时捷设计",
+      "price": 12999,
+      "grade": 5945,
+      "rating": 99
+    },
+    {
+      "id": 9,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443418862/428_428_C1EA2B2BE6C619F23EFBF4BFB41D8747559F387544F655CDmp.png",
+      "title": "HUAWEI nova 7 5G",
+      "price": 2999,
+      "grade": 17139,
+      "rating": 98
+    },
+    {
+      "id": 10,
+      "img-src": "https://res.vmallres.com/pimages//product/6972453165077/428_428_C089F3BE3BD266BAC2B777E1190F59241E0CE65223CA694Bmp.png",
+      "title": "华为畅享20 Pro 5G",
+      "price": 1999,
+      "grade": 2680,
+      "rating": 98
+    },
+    {
+      "id": 11,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487211210/428_428_FAD19670648EDFCF959E7322E54A1A758BE0CD66A83455C6mp.png",
+      "title": "HUAWEI nova 8 Pro",
+      "price": 3999,
+      "grade": 3439,
+      "rating": 99
+    },
+    {
+      "id": 12,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487213252/428_428_20B9B21EA0367AC4BE2E0EAE18A59F552F49EC197F17C3A0mp.png",
+      "title": "华为畅享20 SE",
+      "price": 1299,
+      "grade": 122,
+      "rating": 100
+    },
+    {
+      "id": 13,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443353125/428_428_843D9A399BDE267826C8BE3F0F68A903E015089FCD5087D9mp.png",
+      "title": "HUAWEI Mate 30 Pro 5G",
+      "price": 5899,
+      "grade": 65392,
+      "rating": 99
+    },
+    {
+      "id": 14,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207992/428_428_1CDEFB55E931598D66C86B94B14982E81BDE3C44A7F4468Cmp.png",
+      "title": "【预约专场】HUAWEI nova 8 SE",
+      "price": 2599,
+      "grade": 2491,
+      "rating": 99
+    },
+    {
+      "id": 15,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443381524/428_428_B9DCDEB22DAB212FBD4ADBEA0361459B270FCB900F599219mp.png",
+      "title": "HUAWEI P40 Pro",
+      "price": 5988,
+      "grade": 48176,
+      "rating": 99
+    },
+    {
+      "id": 16,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443433247/428_428_65BAF4AE278E82C2A71E1FE608D217B1072241C8560983BBmp.png",
+      "title": "HUAWEI nova 7 SE 5G 乐活版",
+      "price": 2299,
+      "grade": 180,
+      "rating": 100
+    },
+    {
+      "id": 17,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443398027/428_428_C5B3EEB31BA081CF605FE04A1118DEF332F4C3003CC60ECEmp.png",
+      "title": "HUAWEI P40 Pro+",
+      "price": 7988,
+      "grade": 6847,
+      "rating": 98
+    },
+    {
+      "id": 18,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443376506/428_428_5A4871DB483B6E0D92CA527C3D367A6A32E2B433F5870412mp.png",
+      "title": "HUAWEI Mate Xs",
+      "price": 16999,
+      "grade": 10163,
+      "rating": 99
+    },
+    {
+      "id": 19,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207626/428_428_64A6BB5D9B19C61B2C8724E1D12E02E0DF740091C034401Bmp.png",
+      "title": "HUAWEI Mate 40 Pro+",
+      "price": 8999,
+      "grade": 974,
+      "rating": 99
+    },
+    {
+      "id": 20,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207602/428_428_31F32E699B0AFBCE5C66C3E188441CCAA575145E4E4A20F5mp.png",
+      "title": "HUAWEI Mate 40 RS保时捷设计",
+      "price": 11999,
+      "grade": 14561,
+      "rating": 99
+    }
+  ],
+  "HUAWEIMate":[
+    {
+      "id": 1,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443353361/428_428_6381399AD1BADEB91EBD63AF4EAE62016C58317DDEB7C5C4mp.png",
+      "title": "HUAWEI Mate 30 5G",
+      "price": 4499,
+      "grade": 49633,
+      "rating": 98
+    },
+    {
+      "id": 2,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487210978/428_428_9B6917F54FD19C85873D683A0118C9EE61CF70B260CE761Bmp.png",
+      "title": "HUAWEI Mate 40",
+      "price": 4999,
+      "grade": 15252,
+      "rating": 99
+    },
+    {
+      "id": 3,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207121/428_428_CFF5464CA70F14D0158F19834D9F7CEDF5FF98DD97F3B804mp.png",
+      "title": "HUAWEI Mate 40 Pro",
+      "price": 6499,
+      "grade": 84737,
+      "rating": 99
+    },
+    {
+      "id": 4,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443353125/428_428_843D9A399BDE267826C8BE3F0F68A903E015089FCD5087D9mp.png",
+      "title": "HUAWEI Mate 30 Pro 5G",
+      "price": 5899,
+      "grade": 65392,
+      "rating": 99
+    },
+    {
+      "id": 5,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207626/428_428_64A6BB5D9B19C61B2C8724E1D12E02E0DF740091C034401Bmp.png",
+      "title": "HUAWEI Mate 40 Pro+",
+      "price": 8999,
+      "grade": 974,
+      "rating": 99
+    },
+    {
+      "id": 6,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443353347/428_428_484D42DB83550E7CF59813E6BE3E2A9A4CF07CF0E75E32A3mp.png",
+      "title": "HUAWEI Mate 30 RS 保时捷设计",
+      "price": 12999,
+      "grade": 5945,
+      "rating": 99
+    },
+    {
+      "id": 7,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443376506/428_428_5A4871DB483B6E0D92CA527C3D367A6A32E2B433F5870412mp.png",
+      "title": "HUAWEI Mate Xs",
+      "price": 16999,
+      "grade": 10161,
+      "rating": 99
+    },
+    {
+      "id": 8,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443415670/428_428_02CAB92CA3E7CA5A99995191A776C00D87C32CC39A4B1605mp.png",
+      "title": "HUAWEI Mate 30E Pro",
+      "price": 5299,
+      "grade": 5224,
+      "rating": 99
+    },
+    {
+      "id": 9,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443331376/428_428_FAF5BBAB67C16D7426B5B1A2A38F9001DED6D011A0EE9977mp.png",
+      "title": "HUAWEI Mate 30 Pro",
+      "price": 5399,
+      "grade": 42890,
+      "rating": 99
+    },
+    {
+      "id": 10,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207602/428_428_31F32E699B0AFBCE5C66C3E188441CCAA575145E4E4A20F5mp.png",
+      "title": "HUAWEI Mate 40 RS保时捷设计",
+      "price": 11999,
+      "grade": 14560,
+      "rating": 99
+    }
+  ],
+  "HUAWEIP":[
+    {
+      "id": 1,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443398027/428_428_C5B3EEB31BA081CF605FE04A1118DEF332F4C3003CC60ECEmp.png",
+      "title": "HUAWEI P40 Pro+",
+      "grade": 6847,
+      "rating": 98
+    },
+    {
+      "id": 2,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443381524/428_428_B9DCDEB22DAB212FBD4ADBEA0361459B270FCB900F599219mp.png",
+      "title": "HUAWEI P40 Pro",
+      "grade": 48174,
+      "rating": 99
+    },
+    {
+      "id": 3,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443381326/428_428_98BFD375477593F4E5882AB5A645BCC72F7F6F1109700D32mp.png",
+      "title": "HUAWEI P40",
+      "grade": 27657,
+      "rating": 98
+    }
+  ],
+  "HUAWEINova":[
+    {
+      "id": 1,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443433247/428_428_65BAF4AE278E82C2A71E1FE608D217B1072241C8560983BBmp.png",
+      "title": "HUAWEI nova 7 SE 5G 乐活版",
+      "grade": 180,
+      "rating": 100
+    },
+    {
+      "id": 2,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487210626/428_428_ACE1CD80845649CE0FB2B5131E3110DCB4BC7CDED5B102BDmp.png",
+      "title": "HUAWEI nova 8",
+      "grade": 7306,
+      "rating": 99
+    },
+    {
+      "id": 3,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487211210/428_428_FAD19670648EDFCF959E7322E54A1A758BE0CD66A83455C6mp.png",
+      "title": "HUAWEI nova 8 Pro",
+      "grade": 3431,
+      "rating": 99
+    },
+    {
+      "id": 4,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487207992/428_428_1CDEFB55E931598D66C86B94B14982E81BDE3C44A7F4468Cmp.png",
+      "title": "【预约专场】HUAWEI nova 8 SE",
+      "grade": 2491,
+      "rating": 99
+    },
+    {
+      "id": 5,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443418862/428_428_C1EA2B2BE6C619F23EFBF4BFB41D8747559F387544F655CDmp.png",
+      "title": "HUAWEI nova 7 5G",
+      "grade": 17139,
+      "rating": 98
+    },
+    {
+      "id": 6,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443393015/428_428_AE7282C89472CC29A19250DF5B6E4F08553B5DCC8506214Fmp.png",
+      "title": "HUAWEI nova 7 Pro 5G",
+      "grade": 10185,
+      "rating": 98
+    },
+    {
+      "id": 7,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443418435/428_428_73BCBBB4876F3F6B63D1A34232AD2A6590CDC262C17D7977mp.png",
+      "title": "HUAWEI nova 7 SE 5G 活力版",
+      "grade": 964,
+      "rating": 97
+    }
+  ],
+  "HUAWEIEnjoy":[
+    {
+      "id": 1,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487213252/428_428_20B9B21EA0367AC4BE2E0EAE18A59F552F49EC197F17C3A0mp.png",
+      "title": "华为畅享20 SE",
+      "price": 1299,
+      "grade": 120,
+      "rating": 100
+    },
+    {
+      "id": 2,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443352678/428_428_9FA695518CFC23552650A7145BD7A40DC1A9F088C4BA6A07mp.png",
+      "title": "华为畅享 10S",
+      "price": 1599,
+      "grade": 2732,
+      "rating": 98
+    },
+    {
+      "id": 3,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487202294/428_428_C872B27DB9F580B87F1B877905E8429F65724D6CD860252Dmp.png",
+      "title": "华为畅享20 Plus 5G",
+      "price": 2299,
+      "grade": 7876,
+      "rating": 99
+    },
+    {
+      "id": 4,
+      "img-src": "https://res.vmallres.com/pimages//product/6972453164926/428_428_A46A0A86BE45135BA47D1C6DBDB8BD2128A658F61202CDD0mp.png",
+      "title": "华为畅享Z 5G",
+      "price": 1699,
+      "grade": 12494,
+      "rating": 99
+    },
+    {
+      "id": 5,
+      "img-src": "https://res.vmallres.com/pimages//product/6941487200191/428_428_21B4AF84D0CA78847E127DFBBF4CBB32EA4AAD1345F94E0Dmp.png",
+      "title": "华为畅享20 5G",
+      "price": 1499,
+      "grade": 3280,
+      "rating": 99
+    },
+    {
+      "id": 6,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443327690/428_428_50BAC6E20ED77CBBE6D44BD831603E6F0FB45173DB1EE8B2mp.png",
+      "title": "华为畅享 10Plus",
+      "price": 1399,
+      "grade": 32712,
+      "rating": 99
+    },
+    {
+      "id": 7,
+      "img-src": "https://res.vmallres.com/pimages//product/6901443349869/428_428_DE33DCDCE44B16C008868AC8AF5D1031CE1C2002031BB508mp.png",
+      "title": "华为畅享10",
+      "price": 1099,
+      "grade": 12923,
+      "rating": 99
+    },
+    {
+      "id": 8,
+      "img-src": "https://res.vmallres.com/pimages//product/6972453160508/428_428_C6960C20C53050E90CF1FA84EB7ADD6CA668F6987837B5E6mp.png",
+      "title": "华为畅享 10e",
+      "price": 999,
+      "grade": 8870,
+      "rating": 99
+    },
+    {
+      "id": 9,
+      "img-src": "https://res.vmallres.com/pimages//product/6972453165077/428_428_C089F3BE3BD266BAC2B777E1190F59241E0CE65223CA694Bmp.png",
+      "title": "华为畅享20 Pro 5G",
+      "price": 1999,
+      "grade": 2680,
+      "rating": 98
+    }
+  ],
+  "HUAWEIMaimang":[
+    {
+      "id": 1,
+      "img-src": "https://res.vmallres.com/pimages//product/6972453166968/428_428_97EFEA1CB7E17D75D0538DD905D76B27ECC0A6D709F23E5Fmp.png",
+      "title": "麦芒 9 5G",
+      "price": 2199,
+      "grade": 180,
+      "rating": 100
+    }
+  ]
+}
