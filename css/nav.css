@@ -7,7 +7,7 @@
 }
 #head li {
   float: left;
-  height: 36px;
+  height: 100%;
   padding: 0 8px;
   position: relative;
 }
@@ -278,15 +278,33 @@
   width: 460px;
   margin-bottom: 60px;
   min-height: 168px;
+  max-height: 458px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  /* 自定义滚动条 */
+  scrollbar-color: #eee transparent;
+  scrollbar-width: thin;
+}
+.minicart-list::-webkit-scrollbar{
+  width: 5px;
+  background-color: transparent;
+  border-radius: 10px;
+}
+.minicart-list::-webkit-scrollbar-thumb{
+  background-color: #eee;
+}
+.minicart-list::-webkit-scrollbar-thumb:hover{
+  background-color: #ccc;
 }
 #head .minicart-goods .minicart-goods-item {
   position: relative;
   float: none;
   border-bottom: 1px solid #eee;
   vertical-align: top;
-}
-#head .minicart-goods .minicart-goods-item:first-child{
   padding: 20px 20px 0 12px;
+}
+#head .minicart-goods li::before{
+  content: none;
 }
 #head .minicart-goods .minicart-goods-item .minicart-goods-item-l {
   margin-bottom: 20px;
@@ -305,8 +323,8 @@
 .minicart-goods-item .checked .icon-choose-normal{
   width: 18px;
   height: 18px;
-  border: 1px solid #979797;
   display: block;
+  border: 1px solid #979797;
   border-radius: 10px;
   background-image: none!important;
   cursor: pointer;
@@ -329,13 +347,16 @@
   background-position: -222px 0;
   z-index: 1;
 }
-.minicart-goods-item img{
+.minicart-goods-item .img {
   width: 64px;
   height: 64px;
 }
+.minicart-goods-item img{
+  width: 100%;
+  height: 100%;
+}
 .minicart-goods-item .pro-info .title {
   width: 298px;
-  padding: 0 0 0 9px;
   margin: 0;
 }
 #head .pro-info .title a{
@@ -347,6 +368,35 @@
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+#head .pro-info .title a:hover{
+  color: #ca141d;
+}
+#head .pro-info .p-status {
+  width: 298px;
+  text-align: right;
+  padding-top: 20px;
+  font-size: 14px;
+}
+#head .pro-info .p-price {
+  color: #333;
+  margin-left: 7px;
+  margin-right: 7px;
+  display: inline-block;
+  min-width: 64px;
+
+}
+#head .pro-info .p-price b {
+  font-weight: 400;
+}
+#head .pro-info .p-price strong {
+  font-weight: 400;
+  font-weight: normal;
+  min-width: 32px;
+  display: inline-block;
+}
+#head .pro-info .p-price i {
+  font-style: normal;
 }
 .minicart-list .settlement {
   background: #f0f0f0;
