@@ -10,7 +10,7 @@ task('delDist',async ()=>{
 
 // 处理html
 task('html',async ()=>{
-  src('./*.html')
+  src('./views/*.html')
   .pipe(dest('./dist'))
   .pipe(load.connect.reload())
 })
@@ -18,21 +18,21 @@ task('html',async ()=>{
 // 处理css
 task('style',async ()=>{
   src('./css/*.css')
-  .pipe(dest('./dist/css'))
+  .pipe(dest('./dist/style'))
   .pipe(load.connect.reload())
 })
 
 // 处理js
 task('script',async ()=>{
   src('./js/*.js')
-  .pipe(dest('./dist/js'))
+  .pipe(dest('./dist/script'))
   .pipe(load.connect.reload())
 })
 
 // 处理img
 task('image',async ()=>{
-  src('./images/*.*')
-  .pipe(dest('./dist/images'))
+  src('./img/*.*')
+  .pipe(dest('./dist/img'))
   .pipe(load.connect.reload())
 })
 
@@ -46,10 +46,10 @@ task('reload',async ()=>{
 
 // 监听文件变化
 task('watch',async ()=>{
-  watch('./*.html',series('html'))
+  watch('./views/*.html',series('html'))
   watch('./css/*.css',series('style'))
   watch('./js/*.js',series('script'))
-  watch('./images/*.*',series('image'))
+  watch('./img/*.*',series('image'))
 })
 
 // 打包（开发环境）

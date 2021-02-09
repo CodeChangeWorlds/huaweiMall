@@ -23,14 +23,14 @@ task('delDist',async ()=>{
 
 // 合并css
 task('concatCss',async ()=>{
-  src('./css/index*')
+  src('./style/index*')
   .pipe(load.concat('index.css'))
   .pipe(dest('./dist/style'))
 })
 
 // 合并压缩css
 task('minCss',async ()=>{
-  src('./css/index*')
+  src('./style/index*')
   .pipe(load.concat('index.css'))
   .pipe(load.rev())//给文件名添加哈希值
   .pipe(load.minifyCss())
@@ -42,7 +42,7 @@ task('minCss',async ()=>{
 
 // 合并js
 task('concatJs',async ()=>{
-  src('./js/*.js')
+  src('./script/*.js')
   .pipe(load.concat('all.js'))
   .pipe(dest('./dist/script'))
 })
@@ -65,7 +65,7 @@ task('rename',async ()=>{
 
 // 压缩html
 task('minifyHtml',async ()=>{
-  src(['./rev/css/*.json','./*.html'])
+  src(['./rev/css/*.json','./views/*.html'])
   .pipe(load.revCollector({replaceReved:true}))//替换带哈希值的文件
   .pipe(load.minifyHtml())
   .pipe(dest('./dist'))
@@ -73,14 +73,14 @@ task('minifyHtml',async ()=>{
 
 // 压缩图片
 task('imagemin',async ()=>{
-  src('./image/*.*')
+  src('./img/*.*')
   .pipe(load.imageminChangba())
-  .pipe(dest('./dist/image'))
+  .pipe(dest('./dist/img'))
 })
 
 // ES6 -> ES5
 task('es6toes5',async ()=>{
-  src('./app.js')
+  src('./js/app.js')
   .pipe(load.babel({
     presets: ['@babel/env']
   }))
@@ -96,7 +96,7 @@ task('reload',async ()=>{
 })
 
 task('watch',async ()=>{
-  watch('./style/index*',series('minCss'))
+  watch('./css/index*',series('minCss'))
 })
 
 task('default',series('reload','watch'))

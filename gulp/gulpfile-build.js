@@ -5,17 +5,17 @@ let del = require('del')//删除文件
 
 // 删除dist目录
 task('delDist',async ()=>{
-  await del('../dist')
+  await del('./dist')
 })
 
 // 处理css
 task('style',async ()=>{
-  src('../css/*.css')
+  src('./css/*.css')
   .pipe(load.rev())//给文件名添加哈希值
   .pipe(load.minifyCss())//压缩css
-  .pipe(dest('../dist/css'))//写入到dist目录下
+  .pipe(dest('./dist/style'))//写入到dist目录下
   .pipe(load.rev.manifest())//生成记录哈希值的json文件
-  .pipe(dest('../rev/css'))//将记录哈希值的json文件保存rev目录
+  .pipe(dest('./rev/css'))//将记录哈希值的json文件保存rev目录
 })
 
 // 处理js
@@ -26,25 +26,25 @@ task('script',async ()=>{
     presets: ['@babel/env']
   }))
   .pipe(load.uglify())
-  .pipe(dest('../dist/js'))
+  .pipe(dest('./dist/script'))
   .pipe(load.rev.manifest())
   .pipe(dest('./rev/js'))
 })
 
 // 压缩图片
 task('image',async ()=>{
-  src('../images/*.*')
+  src('./img/*.*')
   .pipe(load.imageminChangba())
-  .pipe(dest('../dist/images'))
+  .pipe(dest('./dist/img'))
 })
 
 // 处理html
 task('html',async ()=>{
   setTimeout(()=>{
-    src(['./rev/**/*.json','./*.html'])
+    src(['./rev/**/*.json','./views/*.html'])
     .pipe(load.revCollector({replaceReved:true}))//使用带哈希值的文件替换原文件
     .pipe(load.minifyHtml())
-    .pipe(dest('../dist'))
+    .pipe(dest('./dist'))
   },2000)
 })
 
