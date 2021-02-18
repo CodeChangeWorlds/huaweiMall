@@ -1,11 +1,54 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>华为商城</title>
+  <!-- 页面公共样式 -->
+  <link rel="stylesheet" href="../css/common.css">
+  <!-- 头部导航栏样式 -->
+  <link rel="stylesheet" href="../css/nav.css">
+  <!-- 副导航栏样式 -->
+  <link rel="stylesheet" href="../css/header.css">
+  <!-- 页面主体 -->
+  <link rel="stylesheet" href="../css//main.css">
+  <link rel="stylesheet" href="../css/index.css">
+  <!-- 页面底部样式 -->
+  <link rel="stylesheet" href="../css/footer.css">
 </head>
+
 <body>
-  
+  <!-- 头部导航栏 -->
+  <nav id="nav"></nav>
+  <!-- 副导航栏 -->
+  <header id="header"></header>
+  <!-- 页面主体 -->
+  <section id="main"></section>
+  <!-- 侧边固定栏 -->
+  <div id="float-main">
+    <div class="index-channel-floor">
+      <div class="hungBar-common">
+        <a href="" target="_blank" class="hungBar-cart">
+          <span>购物车</span>
+        </a>
+        <a href="" class="hungBar-service">
+          <span>在线客服</span>
+        </a>
+        <a href="" class="hungBar-self-service">
+          <span>自助服务</span>
+        </a>
+        <a id="hungBar-top">
+          <div>回到顶部</div>
+        </a>
+      </div>
+    </div>
+    <div class="hungBar"></div>
+  </div>
+  <!-- 页面底部 -->
+  <footer id="foot"></footer>
+  <script src="../js/jquery-1.8.3.js"></script>
+  <script src="../js/index.js"></script>
 </body>
+
 </html>

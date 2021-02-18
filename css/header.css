@@ -1,40 +1,40 @@
-.header{
+#header{
   height: 41px;
   background:#fff;
   padding: 18px 0 15px;
 }
-.header .head-l .logo{
+#header .head-l .logo{
   margin-right: 34px;
   position: relative;
   z-index: 1;
 }
-.header .head-l .logo img {
+#header .head-l .logo img {
   display: block;
   height: 36px;
 }
-.header .head-l .naver-list li{
+#header .head-l .naver-list li{
   float: left;
   line-height: 36px;
   margin-right: 24px;
 }
-.header .naver-list .img{
+#header .naver-list .img{
   display: block;
   height: 24px;
   margin-top: 7px;
 }
-.header .naver-list .img img {
+#header .naver-list .img img {
   height: 100%;
 }
-.header li.img a:hover{
+#header li.img a:hover{
   opacity: .8;
 }
-.header .naver-list li a{
+#header .naver-list li a{
   color: #333;
 }
-.header .naver-list li a:hover{
+#header .naver-list li a:hover{
   color: #ca141d;
 }
-.header .head-r .search{
+#header .head-r .search{
   line-height: 1;
   width: 238px;
   height: 28px;
@@ -45,10 +45,10 @@
   z-index: 310;
   margin-top: 5px;
 }
-.header .head-r .search:hover{
+#header .head-r .search:hover{
   border: 1px solid #c9c9c9;
 }
-.header .head-r .search input{
+#header .head-r .search input{
   outline: none;
   border-radius: 15px;
   border: none;
@@ -57,7 +57,7 @@
   text-indent: 1em;
   color: #3a3a3a;
 }
-.header .head-r .search i{
+#header .head-r .search i{
   position: absolute;
   right: 10px;
   top: 0;
@@ -67,20 +67,20 @@
   background: url(../img/icon-common.svg) no-repeat;
   background-position: -136px 3px;
 }
-.header .head-r .search:hover i{
+#header .head-r .search:hover i{
   background-position: -156px 3px;
 }
-.header .head-r .search .recommend{
+#header .head-r .search .recommend{
   position: absolute;
   right: 40px;
   top: 8px;
   font-size: 12px;
   color: #999;
 }
-.header .head-r .search span{
+#header .head-r .search span{
   margin-right: 8px;
   cursor: pointer;
 }
-.header .head-r .search span:hover{
+#header .head-r .search span:hover{
   color: #333;
 }

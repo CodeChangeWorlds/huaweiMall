@@ -1,0 +1,75 @@
+#float-main {
+  width: 80px;
+  background: #fff;
+  box-shadow: 0 2px 6px 0 rgb(0 0 0 / 7%);
+  border-radius: 10px;
+  position: fixed;
+  right: 16px;
+  bottom: 30px;
+  z-index: 500;
+  padding-top: 8px;
+}
+#float-main .hungBar-common {
+  width: 80px;
+  padding-bottom: 20px;
+}
+#float-main .hungBar-common a{
+  padding-top: 12px;
+  width: 80px;
+  height: 56px;
+  display: block;
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+}
+#float-main .hungBar-common a:hover span{
+  color: #ca141d;
+}
+#float-main .hungBar-common a::before{
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  background: url(../img/icon-common.svg) no-repeat;
+}
+#float-main .hungBar-common a:hover.hungBar-cart::before{
+  background-position: 0 -72px;
+}
+#float-main .hungBar-common a:hover.hungBar-service::before{
+  background-position: -40px -72px;
+}
+#float-main .hungBar-common a:hover.hungBar-self-service::before{
+  background-position: -80px -72px;
+}
+#float-main .hungBar-common a:hover#hungBar-top::before{
+  background-position: -120px -72px;
+}
+#float-main .hungBar-common a.hungBar-cart::before{
+  background-position: 0 -32px;
+}
+#float-main .hungBar-common a.hungBar-service::before{
+  background-position: -40px -32px;
+}
+#float-main .hungBar-common a.hungBar-self-service::before{
+  background-position: -80px -32px;
+}
+#float-main .hungBar-common a#hungBar-top::before{
+  background-position: -120px -32px;
+}
+#float-main .hungBar-common span{
+  font-size: 12px;
+  color: #999;
+  line-height: 16px;
+}
+#float-main .hungBar-common a#hungBar-top{
+  display: none;
+}
+#float-main .hungBar-common a#hungBar-top div {
+  font-size: 12px;
+  color: #999;
+}
+#float-main .hungBar-common a:hover#hungBar-top div{
+  color: #ca141d;
+}
