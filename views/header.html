@@ -26,3 +26,15 @@
     </div>
   </div>
 </div>
+<script>
+  $('.search input').focus(function(){
+    $('.recommend span').css({
+      'display':'none'
+    })
+  })
+  $('.search input').blur(function(){
+    $('.recommend span').css({
+      'display':'inline'
+    })
+  })
+</script>

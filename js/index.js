@@ -1,4 +1,4 @@
-// jq read方法简写
+// jq ready方法简写
 $(function () {
   $('#nav').load('../views/nav.html')
   $('#header').load('../views/header.html')

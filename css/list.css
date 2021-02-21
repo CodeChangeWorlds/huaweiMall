@@ -1,0 +1,90 @@
+#channel-list {
+  background-color: #F5F5F5;
+}
+
+#channel-list #promo-list {
+  padding-top: 20px;
+  width: 1210px;
+}
+
+#channel-list #promo-list li {
+  width: 242px;
+  float: left;
+}
+
+#channel-list #promo-list .pro-panels:hover {
+  box-shadow: 0 10px 15px rgb(0 0 0 / 7%);
+  transform: translate3d(0, -2px, 0);
+}
+
+#channel-list #promo-list .pro-panels {
+  margin-bottom: 10px;
+  background: #FFF;
+  width: 200px;
+  padding: 0 16px;
+  height: 352px;
+  position: relative;
+  text-align: left;
+  transition: transform .2s linear;
+}
+
+#channel-list #promo-list .pro-panels .p-img {
+
+  padding-top: 30px;
+}
+
+#channel-list #promo-list .pro-panels img {
+  vertical-align: top;
+  width: 180px;
+  height: 180px;
+}
+
+#channel-list #promo-list .pro-panels .p-title {
+  margin: 8px 0;
+  font-size: 14px;
+  color: #333;
+}
+
+#channel-list #promo-list .pro-panels .p-price {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+#channel-list #promo-list .pro-panels .p-price em {
+  color: #ca141d;
+  font-style: normal;
+}
+
+#channel-list #promo-list .pro-panels .p-price>span {
+  font-size: 12px;
+  color: #68beff;
+  border: 1px solid #84c9fd;
+  text-align: center;
+  vertical-align: text-top;
+  padding: 0 5px;
+  border-radius: 10px;
+}
+
+#channel-list #promo-list .pro-panels .p-label {
+  font-size: 12px;
+  color: #333;
+  overflow: hidden;
+  padding-bottom: 8px;
+}
+
+#channel-list #promo-list .pro-panels .p-label>span {
+  border: 1px solid #d5434a;
+  padding: 0 5px;
+  text-align: center;
+  color: #ca141d;
+}
+#channel-list #promo-list .pro-panels .p-comment{
+  font-size: 12px;
+  color: #999;
+}
+#channel-list #promo-list .pro-panels .p-comment>b{
+  font-size: 12px;
+  color: #999;
+  font-weight: normal;
+  margin-left: 5px;
+}
