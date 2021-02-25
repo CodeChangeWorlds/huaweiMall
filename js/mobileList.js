@@ -24,7 +24,7 @@ $(function () {
           domStr += `
           <li>
           <div class="pro-panels">
-            <a href="../../views/detail.html?id=${i}">
+            <a href="../../views/detail.html?id=${i}&data=mobileList">
               <div class="p-img">
                 <img src="${item.mobileList[i].imgSrc}" alt="">
               </div>

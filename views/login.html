@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../css/login.css">
+  <link rel="stylesheet" href="../css/footer.css">
+  <link rel="stylesheet" href="../css//common.css">
+  <title>登录/注册-华为商城</title>
+</head>
+
+<body>
+  <!-- 最外层 start -->
+  <div class="wrap">
+
+    <!-- 头部公共部分 start -->
+    <div class="header"></div>
+    <!-- 头部公共部分 finish -->
+
+
+    <!-- banner公共部分 start -->
+    <div class="banner"></div>
+    <!-- banner公共部分 finish -->
+
+
+    <!-- 中间主要内容 start -->
+    <div class="loginMain">
+      <div class="loginMainWarp">
+        <div class="loginBGWrap"></div>
+        <div class=" LoginAlertBox1 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">登录失败！</p>
+          <p class="LoginAlertText LoginAlertText4">该用户名不存在，请先去注册一个再登录吧~</p>
+          <p class="OKBtn">返回</p>
+        </div>
+        <div class=" LoginAlertBox2 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">登录失败！</p>
+          <p class="LoginAlertText LoginAlertText4">密码不对，请确认输入正确的密码，再登录</p>
+          <p class="OKBtn">返回</p>
+        </div>
+        <div class=" LoginAlertBox3 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">用户名核对正确</p>
+          <p class="LoginAlertText LoginAlertText4">密码输入正确！</p>
+          <a href="../views/index.html" class="OKBtn">恭喜你，登录成功~</a>
+        </div>
+        <div class="LoginAlertBox4 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">获取验证码失败！格式错误!</p>
+          <p class="LoginAlertText LoginAlertText2">手机号正确格式:</p>
+          <p class="LoginAlertText LoginAlertText3">1.中国电信号段：133、149、153、173、177、180、181、189、199</p><br>
+          <p class="LoginAlertText LoginAlertText3">2.中国联通号段：130、131、132、145、155、156、166、175、176、185、186</p><br>
+          <p class="LoginAlertText LoginAlertText3">
+            3.中国移动号段：134(0-8)、135、136、137、138、139、147、150、151、152、157、158、159、178、182、183、184、187、188、198</p><br>
+          <p class="LoginAlertText LoginAlertText4">(正确格式)例如：13237525795</p>
+          <p class="OKBtn">确认</p>
+        </div>
+        <div class=" LoginAlertBox5 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">登录失败！</p>
+          <p class="LoginAlertText LoginAlertText4">请输入验证码。验证码为空</p>
+          <p class="OKBtn">返回</p>
+        </div>
+        <div class=" LoginAlertBox6 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">手机号格式正确！</p>
+          <p class="LoginAlertText LoginAlertText4">验证码核对正确！</p>
+          <a href="../index.html" class="OKBtn">恭喜你，登录成功~</a>
+        </div>
+        <div class=" LoginAlertBox7 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">登录失败！</p>
+          <p class="LoginAlertText LoginAlertText4">验证码错误！</p>
+          <p class="OKBtn">返回</p>
+        </div>
+        <div class=" LoginAlertBox8 LoginAlertBox">
+          <p class="LoginAlertText LoginAlertText1">登录失败！</p>
+          <p class="LoginAlertText LoginAlertText4">该手机好已经被注册，请使用密码登录</p>
+          <p class="OKBtn">返回</p>
+        </div>
+        <div class="loginTop">
+          <div class="loginTopWrap">
+            <a href="../views/index.html">
+              <img src="https://res.vmallres.com/pimages//common/config/logo/SXppnESYv4K11DBxDFc2.png" alt=""
+              class="loginTopLogleft">
+            </a>
+            <img src="//kaola-haitao.oss.kaolacdn.com/30bee055-69af-4f3a-a232-5f330cbc98c1_1008_200.png" alt=""
+              class="loginTopLogRight">
+          </div>
+        </div>
+        <div class="loginBG">
+          <div class="loginMainFun loginFun">
+            <div class="LoginTopScanWrap">
+            </div>
+            <!-- 登录选项卡 start-->
+            <ul class="LoginCentSubmitWrap LoginCentSubmitWrap1 showBox">
+              <li class="passwordToLoginWrap">
+                <p class="passwordToLoginText passwordToLoginText1">密码登录</p>
+                <div class="passwordToLoginShow passwordToLoginShow0 showBox">
+                  <p class="p_userWrap">
+                    <span class="span_userName">用户名:</span>
+                    <i class="iconfont iconyonghumingchengICO"></i>
+                    <input type="text" class="userNameInput" placeholder="用户名/邮箱/手机号">
+                  </p>
+                  <p class="p_userWrap">
+                    <span class="span_passWord"> 密码:</span>
+                    <i class="iconfont iconmima"></i>
+                    <input type="text" class="passWordInput" placeholder="请输入登录密码">
+                  </p>
+                  <a href="../views/registration.html" class="registration_a">还没账号？免费注册</a>
+                  <div class="LoginButton LoginButton1">登录</div>
+                </div>
+              </li>
+              <li class="NoteToLoginWrap">
+                <p class="passwordToLoginText passwordToLoginText2">临时登录(免注册)</p>
+                <div class="passwordToLoginShow passwordToLoginShow1 ">
+                  <p class="p_userWrap">
+                    <span class="span_phoneNumber">手机号:</span>
+                    <i class="iconfont iconshouji"></i>
+                    <input type="text" class="userPhoneNumberInput " placeholder="请输入手机号">
+                  </p>
+                  <p class="p_userWrap">
+                    <span class="span_phoneVerificationNumber">验证码:</span>
+                    <i class="iconfont iconduanxinyanzhengma"></i>
+                    <input type="text" class="passVerificationInput input-val" placeholder="请输入验证码">
+                    <canvas class="gainVerificationShow" id="canvas"></canvas>
+                  <div class="gainVerification gainVerification0">获取验证码</div>
+                  <div class="gainVerification gainVerification1">刷新验证码</div>
+                  </p>
+                  <a href="../views/registration.html" class="registration_a">没手机？试试免费注册</a>
+                  <div class="LoginButton btnLogin">登录</div>
+                </div>
+              </li>
+            </ul>
+            <!-- 登录选项卡 finish-->
+
+            <!-- 手机扫码登录 start -->
+            <ul class="LoginCentSubmitWrap LoginCentSubmitWrap2">
+              <p class="markedWord markedWordText1">手机扫码，安全登录</p>
+              <p class="markedWord">
+                <span class="markedWordText2">请确保考拉海购版本号在V4.31及以上哦~</span>
+              </p>
+              <p class="markedWord markedWordText3"><img
+                  src="https://kaola-haitao.oss.kaolacdn.com/9c6b0d6c-4a71-4018-8fb6-46496f51caff.png" alt=""></p>
+              <p class="markedWord markedWordText4"><i class="iconfont iconsaoma"></i><span
+                  class="markedWord markedWordText5">打开考拉海购APP<br>扫一扫登录</span></p>
+            </ul>
+            <!-- 手机扫码登录 start -->
+            <div class="LoginBottomWayWrap">
+              <img src="https://kaola-haitao.oss.kaolacdn.com/fe663cdc-4eb9-4b2b-b587-6a97abcd8019.png" alt=""
+                class="otherLoginWay">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 中间主要内容 finish -->
+    <!-- 尾部公共部分 start-->
+    <div id="foot"></div>
+    <!-- 尾部公共部分 finish-->
+  </div>
+  <!-- 最外层 finish -->
+  <script src="../js/jquery-1.8.3.js"></script>
+  <script src="../js/utils.js"></script>
+  <!-- JqAjax_start(请求公共头部尾部文件)-->
+  <script src="../js/login.js"></script>
+  <!-- JqAjax_finish(请求公共头部尾部文件)-->
+</body>
+
+</html>

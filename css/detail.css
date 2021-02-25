@@ -179,6 +179,7 @@
 }
 .product-buttonmain{
   float: left;
+  user-select: none;
 }
 .product-buttonmain span{
   display: inline-block;

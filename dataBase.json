@@ -214,14 +214,14 @@
     }
   ],
   "hotSale":[
-    { "id": "1", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443398027/428_428_C5B3EEB31BA081CF605FE04A1118DEF332F4C3003CC60ECEmp.png", "title": "HUAWEI P40 Pro+ 5G", "desc": "享12期免息", "price": "¥7,988" },
-    { "id": "2", "imgSrc": "https://res0.vmallres.com/pimages//product/6938179740721/428_428_3DC0FA9485299F06E1E82DA3111C5B465B4647331ED33F66mp.png", "title": "蓓慈智能护眼仪", "desc": "恒温热敷 穴位按压", "price": "¥399" },
-    { "id": "3", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443381517/428_428_0410C56E4DFF825A527CBD3369F4D394F1699311CF51F864mp.png", "title": "HUAWEI P40 Pro 5G", "desc": "限量赠保护壳", "price": "¥5,988" },
-    { "id": "4", "imgSrc": "https://res0.vmallres.com/pimages//product/6971794020427/428_428_837471FC78DE3D32459680F5FACC647CF020E5A503EB1167mp.png", "title": "小莫智能划船机Pro MAX", "desc": "质感升级", "price": "¥3,299" },
-    { "id": "5", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443404926/428_428_EC057BA9FC304F37A60287C1D9E761FACF0EF559795D340Fmp.png", "title": "HUAWEI MateBook X", "desc": "享3期免息", "price": "¥8,988" },
-    { "id": "6", "imgSrc": "https://res0.vmallres.com/pimages//product/6941487207626/428_428_64A6BB5D9B19C61B2C8724E1D12E02E0DF740091C034401Bmp.png", "title": "HUAWEI Mate 40 Pro+ 5G", "desc": "享多重权益", "price": "¥8,999" },
-    { "id": "7", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443415670/428_428_02CAB92CA3E7CA5A99995191A776C00D87C32CC39A4B1605mp.png", "title": "HUAWEI Mate 30E Pro 5G", "desc": "以旧换新享补贴", "price": "¥5,299" },
-    { "id": "8", "imgSrc": "https://res0.vmallres.com/pimages//product/6941487211210/428_428_FAD19670648EDFCF959E7322E54A1A758BE0CD66A83455C6mp.png", "title": "HUAWEI nova 8 Pro", "desc": "每天10:08 限时开售", "price": "¥3,999" }
+    { "id": "1", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443398027/428_428_C5B3EEB31BA081CF605FE04A1118DEF332F4C3003CC60ECEmp.png", "title": "HUAWEI P40 Pro+ 5G", "desc": "享12期免息", "price": 7988 },
+    { "id": "2", "imgSrc": "https://res0.vmallres.com/pimages//product/6938179740721/428_428_3DC0FA9485299F06E1E82DA3111C5B465B4647331ED33F66mp.png", "title": "蓓慈智能护眼仪", "desc": "恒温热敷 穴位按压", "price": 399 },
+    { "id": "3", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443381517/428_428_0410C56E4DFF825A527CBD3369F4D394F1699311CF51F864mp.png", "title": "HUAWEI P40 Pro 5G", "desc": "限量赠保护壳", "price": 5988 },
+    { "id": "4", "imgSrc": "https://res0.vmallres.com/pimages//product/6971794020427/428_428_837471FC78DE3D32459680F5FACC647CF020E5A503EB1167mp.png", "title": "小莫智能划船机Pro MAX", "desc": "质感升级", "price": 3299 },
+    { "id": "5", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443404926/428_428_EC057BA9FC304F37A60287C1D9E761FACF0EF559795D340Fmp.png", "title": "HUAWEI MateBook X", "desc": "享3期免息", "price": 8988 },
+    { "id": "6", "imgSrc": "https://res0.vmallres.com/pimages//product/6941487207626/428_428_64A6BB5D9B19C61B2C8724E1D12E02E0DF740091C034401Bmp.png", "title": "HUAWEI Mate 40 Pro+ 5G", "desc": "享多重权益", "price": 8999 },
+    { "id": "7", "imgSrc": "https://res0.vmallres.com/pimages//product/6901443415670/428_428_02CAB92CA3E7CA5A99995191A776C00D87C32CC39A4B1605mp.png", "title": "HUAWEI Mate 30E Pro 5G", "desc": "以旧换新享补贴", "price": 5299 },
+    { "id": "8", "imgSrc": "https://res0.vmallres.com/pimages//product/6941487211210/428_428_FAD19670648EDFCF959E7322E54A1A758BE0CD66A83455C6mp.png", "title": "HUAWEI nova 8 Pro", "desc": "每天10:08 限时开售", "price": 3999 }
   ],
   "mobile":[
     {

@@ -15,4 +15,8 @@ $(function () {
   $('#hungBar-top').click(function () {
     $('html,body').animate({ scrollTop: 0 }, 500);
   })
+  // 获取屏幕宽度
+  $('#nav').css({
+    'min-width':(window.screen.width)-17
+  })
 })

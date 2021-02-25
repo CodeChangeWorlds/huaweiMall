@@ -2,29 +2,36 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
 }
-ul,ol{
+ul,
+ol {
   list-style: none;
 }
+
 a {
   text-decoration: none;
 }
+
 .container-fluid {
   width: 100%;
   position: relative;
 }
+
 .container {
   width: 1200px;
   margin: 0 auto;
 }
+
 .l {
   float: left;
 }
-.r{
+
+.r {
   float: right;
 }
-.clearfix::after{
+
+.clearfix::after {
   content: '';
   width: 100%;
   display: block;

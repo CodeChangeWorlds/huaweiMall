@@ -1,6 +1,8 @@
 #nav {
   height: 36px;
+  width: 100%;
   background-color: #2e2828;
+  min-width: 1903px;
 }
 #nav .head-list {
   height: 36px;
@@ -10,6 +12,11 @@
   height: 100%;
   padding: 0 8px;
   position: relative;
+}
+#nav li .login span {
+  color: #afafaf;
+  font-size: 14px;
+  line-height: 36px;
 }
 #nav li a {
   color: #afafaf;
@@ -255,7 +262,6 @@
   line-height: 1;
   font-size: 14px;
   color: #a4a4a4;
-  display: none;
 }
 #nav .minicart-empty .icon-minicart {
   width: 100px;
@@ -317,9 +323,17 @@
   width: 20px;
   height: 20px;
   margin: 23px 16px 0 12px;
+  position: relative;
 }
 .minicart-goods-item input {
-  display: none;
+  z-index: 1;
+  opacity: 0;
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  width: 15px;
+  height: 15px;
+
 }
 .minicart-goods-item .checked .icon-choose-normal{
   width: 18px;

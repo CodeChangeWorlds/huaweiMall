@@ -625,13 +625,11 @@
     </div>
   </div>
 </div>
-
 <!-- 菜单栏 -->
 <div class="home-channel-menu">
   <div class="container">
     <ul class="home-channel-list clearfix">
       <li class="s1 l">
-        <div class="login"></div>
         <div class="unlogin clearfix">
           <div class="l w-name">
             <img src="https://res.vmallres.com/2021020501/images/echannel/misc/img_not_logged_in.png" alt="">
@@ -639,9 +637,9 @@
           <div class="l">
             <div class="gg_login_url">
               您好，请
-              <a href="">登陆</a>
+              <a href="../views/login.html">登陆</a>
               <span> / </span>
-              <a href="">注册</a>
+              <a href="../views/registration.html">注册</a>
             </div>
             <div class="w-btn">
               <a href="" class="new">新人福利</a>
@@ -987,6 +985,11 @@
   </div>
 </div>
 <script>
+  // 获取屏幕宽度
+  $('.banner').css({
+    'min-width': (window.screen.width) - 17,
+    'width': (window.screen.width) - 17
+  })
   let index = 0;
   let len = $('.imgBox li').size() - 1
   function clickRight() {
@@ -1092,46 +1095,48 @@
       $('.swiper-wrapper').html(domStr)
     }
   })
-  // 精品推荐轮播
-  $('.btn-next').on('click', next)
-  $('.btn-prev').on('click', prev)
-  let lis = $('.swiper-wrapper li').innerWidth()
-  let liLen = ($('.swiper-wrapper').innerWidth() / lis)
-  let l = 5
-  let i = 0
-  function next() {
-    i += l
-    if (i >= liLen) {
-      i = 0
+  $('.swiper-wrapper').ajaxComplete(function () {
+    // 精品推荐轮播
+    $('.btn-next').on('click', next)
+    $('.btn-prev').on('click', prev)
+    let lis = $('.swiper-wrapper li').innerWidth()
+    let liLen = ($('.swiper-wrapper').innerWidth() / lis)
+    let l = 5
+    let i = 0
+    function next() {
+      i += l
+      if (i >= liLen) {
+        i = 0
+      }
+      if (i === 0) {
+        $('.btn-prev').addClass('disable')
+      } else {
+        $('.btn-prev').removeClass('disable')
+      }
+      if (i >= liLen - 1) {
+        $('.btn-next').addClass('disable')
+      }
+      move(i)
     }
-    if (i === 0) {
-      $('.btn-prev').addClass('disable')
-    } else {
-      $('.btn-prev').removeClass('disable')
+    function prev() {
+      i -= l
+      if (i < 0) {
+        i = liLen
+      }
+      if (i === 0) {
+        $('.btn-prev').addClass('disable')
+      } else {
+        $('.btn-prev').removeClass('disable')
+      }
+      if (i != liLen - 1) {
+        $('.btn-next').removeClass('disable')
+      }
+      move(i)
     }
-    if (i >= liLen - 1) {
-      $('.btn-next').addClass('disable')
+    function move(i) {
+      $(".swiper-wrapper").stop().animate({ left: -(lis * i) }, 360);
     }
-    move(i)
-  }
-  function prev() {
-    i -= l
-    if (i < 0) {
-      i = liLen
-    }
-    if (i === 0) {
-      $('.btn-prev').addClass('disable')
-    } else {
-      $('.btn-prev').removeClass('disable')
-    }
-    if (i != liLen - 1) {
-      $('.btn-next').removeClass('disable')
-    }
-    move(i)
-  }
-  function move(i) {
-    $(".swiper-wrapper").stop().animate({ left: -(lis * i) }, 360);
-  }
+  })
   let imgLen = $('.ec-slider-list li').size() - 1
   let idx = 0
   let timer = setInterval(moveNext, 3000)
@@ -1178,4 +1183,16 @@
   getData('#wine', 'wine')
   //  精选配件
   getData('#selectedAccessories', 'selectedAccessories')
+  // 登陆
+  if (localStorage.getItem('ShowUser')) {
+    const user = localStorage.getItem('ShowUser')
+    let html = `您好，${user}</a>`
+    $('.gg_login_url').html(html)
+  } else {
+    let html = `您好，请
+              <a href="../views/login.html">登陆</a>
+              <span> / </span>
+              <a href="../views/registration.html">注册</a>`
+    $('.gg_login_url').html(html)
+  }
 </script>
